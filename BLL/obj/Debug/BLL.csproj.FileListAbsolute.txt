@@ -1,0 +1,175 @@
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\BLL.dll.config
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\BLL.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\BLL.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\DAL.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\MODELO.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\MySql.Data.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\Zstandard.Net.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\BouncyCastle.Crypto.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\Ubiety.Dns.Core.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Memory.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Buffers.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Hash.xxHash.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Numerics.Vectors.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\DAL.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\DAL.dll.config
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\MODELO.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\MySql.Data.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Memory.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Buffers.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Hash.xxHash.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Numerics.Vectors.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\obj\Debug\BLL.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\obj\Debug\BLL.pdb
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\BLL.dll.config
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\BLL.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\BLL.pdb
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\DAL.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\MODELO.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\MySql.Data.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\Zstandard.Net.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\BouncyCastle.Crypto.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\Ubiety.Dns.Core.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\System.Memory.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\System.Buffers.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\K4os.Hash.xxHash.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\System.Numerics.Vectors.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\DAL.pdb
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\DAL.dll.config
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\MODELO.pdb
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\MySql.Data.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.pdb
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\System.Memory.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\System.Buffers.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\K4os.Hash.xxHash.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\bin\Debug\System.Numerics.Vectors.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\obj\Debug\BLL.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\BLL\obj\Debug\BLL.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\BLL.dll.config
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\BLL.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\BLL.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\DAL.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\MODELO.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\MySql.Data.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\Zstandard.Net.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\BouncyCastle.Crypto.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\Ubiety.Dns.Core.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Memory.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Buffers.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Hash.xxHash.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Numerics.Vectors.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\DAL.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\DAL.dll.config
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\MODELO.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\MySql.Data.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Memory.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Buffers.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\K4os.Hash.xxHash.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\bin\Debug\System.Numerics.Vectors.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\obj\Debug\BLL.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\BLL\obj\Debug\BLL.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\BLL.dll.config
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\BLL.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\BLL.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\DAL.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\MODELO.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\MySql.Data.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\Google.Protobuf.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\Zstandard.Net.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\BouncyCastle.Crypto.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\Ubiety.Dns.Core.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\System.Memory.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\System.Buffers.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\K4os.Compression.LZ4.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\K4os.Hash.xxHash.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\System.Numerics.Vectors.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\DAL.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\DAL.dll.config
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\MODELO.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\MySql.Data.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\Google.Protobuf.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\Google.Protobuf.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\System.Memory.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\System.Buffers.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\K4os.Compression.LZ4.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\K4os.Hash.xxHash.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\bin\Debug\System.Numerics.Vectors.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\obj\Debug\BLL.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\BLL\obj\Debug\BLL.pdb
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\BLL.dll.config
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\BLL.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\BLL.pdb
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\DAL.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\MODELO.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\Zstandard.Net.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\System.Memory.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\System.Buffers.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\DAL.pdb
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\DAL.dll.config
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\MODELO.pdb
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\MySql.Data.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.pdb
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\Google.Protobuf.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\System.Memory.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\System.Buffers.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\obj\Debug\BLL.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\BLL\obj\Debug\BLL.pdb

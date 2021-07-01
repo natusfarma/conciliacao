@@ -1,0 +1,241 @@
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.exe.config
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.exe
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MODELO.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MySql.Data.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Zstandard.Net.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BouncyCastle.Crypto.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Ubiety.Dns.Core.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Memory.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Buffers.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Hash.xxHash.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Numerics.Vectors.dll
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.dll.config
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.dll.config
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MODELO.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MySql.Data.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Memory.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Buffers.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Hash.xxHash.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Numerics.Vectors.xml
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaContas.resources
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Frm_Principal.resources
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Importar.Frm_ImportarExtrato.resources
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Importar.Frm_ImportarItec.resources
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Properties.Resources.resources
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.GenerateResource.cache
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.CoreCompileInputs.cache
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.CopyComplete
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.exe
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_Consulta_Agencia_Filial.resources
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_Validar_Itec_Extrato.resources
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.exe.config
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.exe
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.pdb
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MODELO.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MySql.Data.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Zstandard.Net.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BouncyCastle.Crypto.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Ubiety.Dns.Core.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Memory.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Buffers.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Hash.xxHash.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Numerics.Vectors.dll
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.pdb
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.dll.config
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.pdb
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.dll.config
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MODELO.pdb
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MySql.Data.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.pdb
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Memory.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Buffers.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Hash.xxHash.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Numerics.Vectors.xml
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csprojAssemblyReference.cache
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaIndicador.resources
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_Consulta_Agencia_Filial.resources
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaContas.resources
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_Validar_Itec_Extrato.resources
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Frm_Principal.resources
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Importar.Frm_ImportarExtrato.resources
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Importar.Frm_ImportarItec.resources
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Properties.Resources.resources
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.GenerateResource.cache
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.CoreCompileInputs.cache
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.CopyComplete
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.exe
+H:\PROGRAMA-TI\PROJETOS_MySql\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.exe.config
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.exe
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MODELO.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MySql.Data.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Zstandard.Net.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BouncyCastle.Crypto.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Ubiety.Dns.Core.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Memory.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Buffers.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Hash.xxHash.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Numerics.Vectors.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.dll.config
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.dll.config
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MODELO.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MySql.Data.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Memory.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Buffers.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Hash.xxHash.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Numerics.Vectors.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csprojAssemblyReference.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaIndicador.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_Consulta_Agencia_Filial.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaContas.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_Validar_Itec_Extrato.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Frm_Principal.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Importar.Frm_ImportarExtrato.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Importar.Frm_ImportarItec.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Properties.Resources.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.GenerateResource.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.CoreCompileInputs.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.CopyComplete
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.exe
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.pdb
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.AssemblyReference.cache
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaIndicador.resources
+E:\PROJETOS\NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaErros.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaErros.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.exe.config
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.exe
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\BLL.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\DAL.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\MODELO.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\MySql.Data.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\Zstandard.Net.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\BouncyCastle.Crypto.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\Ubiety.Dns.Core.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\System.Memory.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\System.Buffers.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\K4os.Hash.xxHash.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\System.Numerics.Vectors.dll
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\BLL.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\BLL.dll.config
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\DAL.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\DAL.dll.config
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\MODELO.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\MySql.Data.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\System.Memory.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\System.Buffers.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\K4os.Hash.xxHash.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\bin\Debug\System.Numerics.Vectors.xml
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csprojAssemblyReference.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaErros.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaIndicador.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_Consulta_Agencia_Filial.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaContas.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_Validar_Itec_Extrato.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Frm_Principal.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Importar.Frm_ImportarExtrato.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Importar.Frm_ImportarItec.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Properties.Resources.resources
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.GenerateResource.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.CoreCompileInputs.cache
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.CopyComplete
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.exe
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.pdb
+H:\PROGRAMA-TI\PROJETOS_NATUS\ConciliacaoBancariaGit\conciliacao\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaNaoLocalizados.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.exe.config
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.exe
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\ConciliacaoBancaria-GUI.pdb
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MODELO.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MySql.Data.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Zstandard.Net.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Memory.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Buffers.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.pdb
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\BLL.dll.config
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.pdb
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\DAL.dll.config
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MODELO.pdb
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\MySql.Data.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Memory.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Buffers.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csprojAssemblyReference.cache
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaErros.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaIndicador.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaNaoLocalizados.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_Consulta_Agencia_Filial.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_ConsultaContas.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Consulta.Frm_Validar_Itec_Extrato.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Frm_Principal.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Importar.Frm_ImportarExtrato.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Importar.Frm_ImportarItec.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria_GUI.Properties.Resources.resources
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.GenerateResource.cache
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.CoreCompileInputs.cache
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.csproj.CopyComplete
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.exe
+C:\Users\Savio\Google Drive\DRIVE\ConciliacaoBancaria\ConciliacaoBancaria-GUI\obj\Debug\ConciliacaoBancaria-GUI.pdb
